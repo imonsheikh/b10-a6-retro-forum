@@ -107,7 +107,20 @@ const markAsRead = (description, view_count) =>{
     `
 
     markAsReadContainer.appendChild(div)
+    handleCount()
 }
+
+//handle count function 
+const handleCount = () =>{
+const prevCount = document.getElementById('markAsReadCounter').innerText
+const convertedCounter = parseInt(prevCount)
+const sum = convertedCounter + 1
+document.getElementById('markAsReadCounter').innerText = sum
+
+
+}
+
+
 
 loadAllPosts();
 
