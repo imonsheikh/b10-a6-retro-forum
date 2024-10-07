@@ -2,9 +2,9 @@
 # B9A6-Retro-Forum
 
 
-## [Live site link]('https://imonsheikh.github.io/b10-a6-retro-forum/')
+## [Live site link](https://imonsheikh.github.io/b10-a6-retro-forum/)
 
-Click here for the private repo: [https://classroom.github.com/a/M685dkpe](https://classroom.github.com/a/M685dkpe)
+github link: [https://imonsheikh.github.io/b10-a6-retro-forum/](https://imonsheikh.github.io/b10-a6-retro-forum/)
 
 
 
